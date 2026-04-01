@@ -1,4 +1,5 @@
-<img width="290" height="60" alt="image" src="https://github.com/user-attachments/assets/82e8a178-322a-487b-99ad-1af543bce77a" />
+<img width="290" height="60" alt="image" src="https://github.com/user-attachments/assets/82e8a178-322a-487b-99ad-1af543bce77a" /> 
+[AKR Sistemas](https://www.akrsistemas.com.br/)
 
 # Manufacturing View
 
