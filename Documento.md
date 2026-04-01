@@ -2,7 +2,7 @@
 
 
 
-* Site oficial: [AKR Sistemas](https://www.akrsistemas.com.br)
+[AKR Sistemas](https://www.akrsistemas.com.br)
 
 # Manufacturing View
 
