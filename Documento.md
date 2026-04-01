@@ -1,4 +1,5 @@
 <img width="290" height="60" alt="image" src="https://github.com/user-attachments/assets/82e8a178-322a-487b-99ad-1af543bce77a" />
+
 #Manufacturing View
 
 O Manufacturing View é um produto AKR voltado para o controle e monitoramento de linhas de produção
